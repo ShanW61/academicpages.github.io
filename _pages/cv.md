@@ -23,15 +23,16 @@ Work experience
 * Spring 2019: Instructional Assistant
   * Penn State University
   * Courses:
-        *IST 431
-        *SRA 111
+    * IST 431
+    * SRA 111
 * Fall 2018: Instructional Assistant
   * Penn State University
   * Courses:
-        *IST 337
-        *SRA 365
+    * IST 337
+    * SRA 365
 * tech assistant
  * University of California, Davis
+
 Skills
 ======
 * working on this!
@@ -42,10 +43,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
