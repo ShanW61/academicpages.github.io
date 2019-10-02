@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Publications
+======
+* Investigating Users’ Perceptions of Light Behaviors in Smart-Speakers
+  Sahiti Kunchay, Shan Wang, Saeed Abdullah
+  CSCW 2019
+
+*	Testing a Complex Training Task
+  Frank E. Ritter, Farnaz Tehranchi, Mat Brener, Shan Wang
+  ICCM 2019
