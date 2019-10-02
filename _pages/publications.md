@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Publications
+
 ======
 * Investigating Users’ Perceptions of Light Behaviors in Smart-Speakers,
   Sahiti Kunchay, Shan Wang, Saeed Abdullah,
