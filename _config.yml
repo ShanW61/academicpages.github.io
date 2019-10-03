@@ -64,7 +64,7 @@ facebook:
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
- - https://twitter.com/Shanhaha3
+ #- https://twitter.com/Shanhaha3
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Shanhaha3"
+  twitter          : https://twitter.com/home
   vine             :
   weibo            :
   xing             :
