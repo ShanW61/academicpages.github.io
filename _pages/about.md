@@ -13,5 +13,5 @@ I'm a second-year master student in the [College of Information Sciences and Tec
 
 In my other time, I work as a Research Assistant in the [Applied Cognitive Science (ACS) Lab](http://acs.ist.psu.edu/wp/), supervised by [Dr. Frank Ritter](http://www.frankritter.com/ritter.html), and a Teaching Assistant supervised by [Prof. Megan Costello](https://ist.psu.edu/directory/muc148). 
 
-====
-Currently applying for HCI-related Phd programs.
+
+Currently applying for HCI-related Phd programs!
