@@ -16,3 +16,5 @@ In my other time, I work as a Research Assistant in the [Applied Cognitive Scien
 
 Currently applying for Phd programs!
 
+In my free time, I like to play badminton/table tennis/basketball with friends!
+(I also like handicrafts and used to do glassmaking. Schetching and volleyball are part of my childhood. )
