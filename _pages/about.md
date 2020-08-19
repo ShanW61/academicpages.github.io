@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Master's student in the College of Information Sciences and Technology at Penn State University, a lab member in the [Wellness & Health Innovation (WHI) Lab](https://whilab.org/), advised by [Dr. Saeed Abdullah](https://saeedabdullah.com/publications.html). I'm interested in technologies for health and wellbeing, such as persuasive technologies for healthy behavior changes. I use mixed methods to understand how people interact with technologies, design and evaluate tech for health and wellbeing purposes. My current project is to investigate the effects of humor level of prompts on prolonged sedentary behavior, stress, and perceived interruption.
+I'm a first-year Ph.D. student in the College of Information Sciences and Technology at Penn State University, advised by [Dr. Xinning Gui](https://www.xinninggui.com/). I'm interested in technologies for mental health and psychological wellbeing. 
 
+I was a previous lab member in the [Wellness & Health Innovation (WHI) Lab](https://whilab.org/), advised by [Dr. Saeed Abdullah](https://saeedabdullah.com/publications.html). I worked as a Research Assistant in the [Applied Cognitive Science (ACS) Lab](http://acs.ist.psu.edu/wp/), supervised by [Dr. Frank Ritter](http://www.frankritter.com/ritter.html), and a Teaching Assistant supervised by [Prof. Megan Costello](https://ist.psu.edu/directory/muc148). 
 
-In my other time, I work as a Research Assistant in the [Applied Cognitive Science (ACS) Lab](http://acs.ist.psu.edu/wp/), supervised by [Dr. Frank Ritter](http://www.frankritter.com/ritter.html), and a Teaching Assistant supervised by [Prof. Megan Costello](https://ist.psu.edu/directory/muc148). 
-
-
-Currently applying for Phd programs!
-
-In my free time, I like to play badminton/table tennis/basketball with friends!
-(I also like handicrafts and used to do glassmaking. Schetching and volleyball are part of my childhood. )
+Some quotes I love:
+"Let everything happen to you. Beauty and Terror. Just keep going. No feeling is final." - Rainer Maria Rilke
+"Stay hungry. Stay foolish." - Steve Jobs
